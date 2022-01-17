@@ -12,7 +12,7 @@ class Server {
     {
         ServerSocket server = null;
         try {
-            server = new ServerSocket(8080);
+            server = new ServerSocket(8081);
             server.setReuseAddress(true);
 
             while (true) {

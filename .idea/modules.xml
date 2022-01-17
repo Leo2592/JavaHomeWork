@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaHomeWork.iml" filepath="$PROJECT_DIR$/JavaHomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw15demo/hw15demo.iml" filepath="$PROJECT_DIR$/hw15demo/hw15demo.iml" />
     </modules>
   </component>
 </project>
